@@ -1,4 +1,4 @@
-# "IP-addresse til 2IMA" 
+# IP-addresse til 2IMA 
 
 ## Isaac
 - Pc: 10.2.1.79
