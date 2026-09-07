@@ -3,3 +3,7 @@
 ## Isaac
 - Pc: 10.2.1.79
 - Raspberry pi: 10.200.1.17
+
+## Zakaria
+- Pc: 10.2.1.121
+- Raspberry pi: 10.200.1.25
