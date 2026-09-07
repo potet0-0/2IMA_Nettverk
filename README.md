@@ -42,7 +42,7 @@
 
 ## Martin
 - Pc: 
-- Raspberry pi: 
+- Raspberry pi: 10.200.1.19
 
 ## Mohamed
 - Pc: 
