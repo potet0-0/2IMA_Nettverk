@@ -7,3 +7,7 @@
 ## Zakaria
 - Pc: 10.2.1.121
 - Raspberry pi: 10.200.1.25
+
+## Ibrahim 
+- Pc: 10.2.1.27
+- Raspberry pi: 10.200.1.16
