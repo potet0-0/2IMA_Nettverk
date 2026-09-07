@@ -37,12 +37,12 @@
 - Raspberry pi: 10.200.1.17
 
 ## Leo
-- Pc: 
-- Raspberry pi:
+- Pc: 10.1.2.116
+- Raspberry pi: 10.200.1.18
 
 ## Martin
 - Pc: 
-- Raspberry pi:
+- Raspberry pi: 
 
 ## Mohamed
 - Pc: 
