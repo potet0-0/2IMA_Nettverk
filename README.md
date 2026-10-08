@@ -17,7 +17,7 @@
 - Raspberry pi:
 
 ## Bon
-- Pc: 
+- Pc: 10.2.1.82
 - Raspberry pi:
 
 ## Eirik
@@ -41,20 +41,20 @@
 - Raspberry pi: 10.200.1.18
 
 ## Martin
-- Pc: 
+- Pc: 10.2.1.83
 - Raspberry pi: 10.200.1.19
 
 ## Mohamed
-- Pc: 
-- Raspberry pi: 
+- Pc: 10.2.1.165
+- Raspberry pi: 10.200.1.21
 
 ## Niklas
-- Pc: 
-- Raspberry pi:
+- Pc: 10.2.1.52
+- Raspberry pi:10.200.1.22
 
 ## Simaq
-- Pc: 
-- Raspberry pi: 10.200.1.
+- Pc: 10.2.0.234
+- Raspberry pi: 10.200.1.11
 
 ## Victor
 - Pc: 
