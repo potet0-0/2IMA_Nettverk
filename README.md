@@ -1,7 +1,7 @@
 # IP-addresse til 2IMA 
 
 ## Abbas
-- Pc: 
+- Pc: 10.200.1.10
 - Raspberry pi:
 
 ## Alexander
@@ -46,7 +46,7 @@
 
 ## Mohamed
 - Pc: 
-- Raspberry pi:
+- Raspberry pi: 
 
 ## Niklas
 - Pc: 
@@ -54,7 +54,7 @@
 
 ## Simaq
 - Pc: 
-- Raspberry pi:
+- Raspberry pi: 10.200.1.
 
 ## Victor
 - Pc: 
