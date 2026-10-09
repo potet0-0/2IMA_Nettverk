@@ -29,7 +29,7 @@
 - Raspberry pi:
 
 ## Ibrahim
-- Pc: 10.2.1.27
+- Pc: 10.2.1.84
 - Raspberry pi: 10.200.1.16
 
 ## Isaac
