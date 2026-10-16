@@ -37,7 +37,7 @@
 - Raspberry pi: 10.200.1.17
 
 ## Leo
-- Pc: 10.1.2.116
+- Pc: 10.2.1.116
 - Raspberry pi: 10.200.1.18
 
 ## Martin
